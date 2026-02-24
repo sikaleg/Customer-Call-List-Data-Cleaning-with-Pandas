@@ -12,11 +12,13 @@ The goal of this project was to clean, standardize, and prepare the data for dow
 
 ## Data Description
 **Raw Data** 
-<a href='https://ourworldindata.org/covid-deaths'>Dataset:</a> Contains the original unmodified dataset with data quality issues.
+<a href='https://github.com/sikaleg/Customer-Call-List-Data-Cleaning-with-Pandas/blob/main/Customer%20Call%20List.xlsx'>Dataset:</a> Contains the original unmodified dataset with data quality issues.
+
 <img width="901" height="454" alt="Screenshot 2026-02-23 171649" src="https://github.com/user-attachments/assets/1f24ef99-b45c-4af0-ba00-243c84220bfb" />
 
 **Cleaned Data**
-<a href='https://ourworldindata.org/covid-deaths'>Cleaned Data:</a> Final output after applying all cleaning and transformation steps in Pandas.
+<a href='https://github.com/sikaleg/Customer-Call-List-Data-Cleaning-with-Pandas/blob/main/Cleaned%20Customer%20Data.xlsx'>Cleaned Data:</a> Final output after applying all cleaning and transformation steps in Pandas.
+
 <img width="761" height="430" alt="Screenshot 2026-02-23 171836" src="https://github.com/user-attachments/assets/c865b390-65be-4e8b-81cf-e7bef45af404" />
 
 ## Data Cleaning Tasks Performed
@@ -58,7 +60,6 @@ This significantly improves the dataset’s usability for:
 - Data quality validation
 - Reproducible data workflows
 - GitHub project documentation
-## Author
 
 ## Author
 Godwin Sikale | Data Analyst
