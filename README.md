@@ -11,13 +11,12 @@ This project demonstrates a complete data-cleaning workflow using Python and Pan
 The goal of this project was to clean, standardize, and prepare the data for downstream analysis and reporting.
 
 ## Data Description
-**Raw Data** 
-<a href='https://github.com/sikaleg/Customer-Call-List-Data-Cleaning-with-Pandas/blob/main/Customer%20Call%20List.xlsx'>Dataset:</a> Contains the original unmodified dataset with data quality issues.
+
+<a href='https://github.com/sikaleg/Customer-Call-List-Data-Cleaning-with-Pandas/blob/main/Customer%20Call%20List.xlsx'>**Raw Data** :</a> Contains the original unmodified dataset with data quality issues.
 
 <img width="901" height="454" alt="Screenshot 2026-02-23 171649" src="https://github.com/user-attachments/assets/1f24ef99-b45c-4af0-ba00-243c84220bfb" />
 
-**Cleaned Data**
-<a href='https://github.com/sikaleg/Customer-Call-List-Data-Cleaning-with-Pandas/blob/main/Cleaned%20Customer%20Data.xlsx'>Cleaned Data:</a> Final output after applying all cleaning and transformation steps in Pandas.
+<a href='https://github.com/sikaleg/Customer-Call-List-Data-Cleaning-with-Pandas/blob/main/Cleaned%20Customer%20Data.xlsx'>**Cleaned Data**:</a> Final output after applying all cleaning and transformation steps in Pandas.
 
 <img width="761" height="430" alt="Screenshot 2026-02-23 171836" src="https://github.com/user-attachments/assets/c865b390-65be-4e8b-81cf-e7bef45af404" />
 
